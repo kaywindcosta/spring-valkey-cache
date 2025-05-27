@@ -1,0 +1,9 @@
+
+# Application properties for Spring Boot application using Valkey cache
+logging:
+    level:
+        root: ERROR
+        org.springframework.web: ERROR
+        org.springframework.boot: INFO
+        com.kcd: DEBUG
+ #       io.lettuce: DEBUG
