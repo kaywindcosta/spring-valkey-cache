@@ -57,7 +57,20 @@ This project demonstrates how to use Valkey as a cache provider in a Spring Boot
 9. You can also use the provided Swagger UI to interact with the API endpoints.
 
 
-    
+Tools  Used
+- Docker 
+- Maven
+- IntelliJ IDEA
+- Redis Insight
+- Swagger (for API documentation)
+- Lombok (for reducing boilerplate code)
+- Spring Boot Actuator (for monitoring and management)
+- Spring Boot Starter Web (for building web applications)
+- Spring Boot Starter Cache (for caching support)
+- Spring Boot Starter Data Redis (for Redis integration)
+- Spring Boot Starter Test (for testing support)
+- Spring Boot Starter Session (for session management)
+- Spring Boot Starter Security (for security features)
 
 
 ## References
