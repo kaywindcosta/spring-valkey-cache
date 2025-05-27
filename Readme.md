@@ -27,8 +27,13 @@ This project demonstrates how to use Valkey as a cache provider in a Spring Boot
 - Spring session
 - Spring Boot Starter Cache
 - Spring Boot Starter Web
-- Spring Boot Starter Test
 - Spring Boot Starter Actuator
+- Lettuce (as the Redis client)
+- Lombok (for reducing boilerplate code)
+- Swagger (for API documentation)
+- Redis Insight (for monitoring and managing Valkey)
+- IntelliJ IDEA (or any other IDE of your choice)
+- Docker (for running Valkey server)
 
    
 ## Setup
@@ -70,12 +75,16 @@ Tools  Used
 - Spring Boot Starter Data Redis (for Redis integration)
 - Spring Boot Starter Test (for testing support)
 - Spring Boot Starter Session (for session management)
-- Spring Boot Starter Security (for security features)
 
 
 ## References
 
+- https://redis.io/blog/what-is-valkey/
+- https://valkey.io/
 - https://hub.docker.com/r/valkey/valkey/
 - https://valkey-java.io/
 - https://valkey.io/topics/migration/
 - https://fedoramagazine.org/how-to-move-from-redis-to-valkey/"# spring-valkey-cache" 
+- https://www.instaclustr.com/education/valkey/understanding-valkey-the-basics-and-a-quick-tutorial/#sec-0
+- https://logz.io/blog/redis-no-longer-open-source-is-valkey-successor/
+- https://blog.logrocket.com/migrating-valkey-redis/
